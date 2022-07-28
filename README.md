@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning c++,html.
 - 💞️ I’m looking to collaborate on github.
 - 📫 details to reachme out:-
+- 
  email: ibrahimbashasyed24@gmail.com
 contact me: 7569835822
 <!---
